@@ -1,0 +1,1 @@
+import{t as e}from"./framework~index~layout~page~app-page-cache-render~app-page-cache~seed-cache~app-route-handl~beoizrd4--Ca-mPLY.js";import{V as t}from"../../../index.js";var n=t(()=>{throw Error(`Unexpectedly client reference export 'default' is called on server`)},`cf2d003c0f35`,`default`),r=e();function i(){return(0,r.jsx)(n,{})}export{i as default};

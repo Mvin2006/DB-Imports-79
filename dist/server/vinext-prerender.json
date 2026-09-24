@@ -1,0 +1,30 @@
+{
+  "buildId": "d4e9b18b-2307-4f42-b4a9-235fd0c55eee",
+  "trailingSlash": true,
+  "routes": [
+    {
+      "route": "/",
+      "status": "rendered",
+      "revalidate": false,
+      "router": "app",
+      "tags": [
+        "/",
+        "_N_T_/",
+        "_N_T_/index",
+        "_N_T_/layout",
+        "_N_T_/page"
+      ],
+      "headers": {
+        "link": "<assets/hero.png>; rel=preload; as=\"image\"; fetchpriority=\"high\""
+      }
+    }
+  ],
+  "pregeneratedConcretePaths": [
+    [
+      "/",
+      [
+        "/"
+      ]
+    ]
+  ]
+}
